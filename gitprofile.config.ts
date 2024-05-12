@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Jeremy Wisecarver',
     description: '',
     imageURL: '',
   },
@@ -69,14 +69,14 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'JeremyWisecarver@gmail.com',
   },
   resume: {
     fileUrl:
@@ -120,7 +120,7 @@ const CONFIG = {
     {
       institution: 'University of Idaho',
       degree: 'Bachelors of Computer Science',
-      to: '2024',
+      //to: '2024',
     },
     //{
       //institution: 'Institution Name',
