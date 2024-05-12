@@ -120,7 +120,8 @@ const CONFIG = {
     {
       institution: 'University of Idaho',
       degree: 'Bachelors of Computer Science',
-      //to: '2024',
+      from: '2020'
+      to: '2024'
     },
     //{
       //institution: 'Institution Name',
