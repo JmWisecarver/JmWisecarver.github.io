@@ -179,6 +179,7 @@ const CONFIG = {
     displayAvatarRing: true,
 
     // Available themes. To remove any theme, exclude from here.
+    /*
     themes: [
       'light',
       'dark',
@@ -214,6 +215,7 @@ const CONFIG = {
       'sunset',
       'procyon',
     ],
+    */
 
     // Custom theme, applied to `procyon` theme
     customTheme: {
